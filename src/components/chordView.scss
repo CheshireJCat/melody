@@ -1,0 +1,11 @@
+.chord {
+  width: 100px;
+  &-chart {
+    width: 100%;
+  }
+  &-title {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: -30px;
+  }
+}
